@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ROOT>
+  <DIRECTION Fx="-1" Fy="1" Fz="-1" Mx="1" My="-1" Mz="1" />
+  <INTERNET IP="192.168.1.44" PORT="54600" />
+  <PARAMETER Speed="5" MinStep="0.3" MaxStep="6.5" MinAngle="0.04" MaxAngle="0.3" />
+</ROOT>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <DIRECTION Fx="-1" Fy="-1" Fz="-1" Mx="-1" My="-1" Mz="1" />
+  <PARAMETER Speed="10" MinStep="1.5" MaxStep="22" MinAngle="1" MaxAngle="2" />
+</ROOT>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NetBoard>
+  <KalmanFilter>
+    <Open>Disable</Open>
+    <Force>
+      <Kalman_K>5</Kalman_K>
+      <Kalman_threshold>0.8</Kalman_threshold>
+      <Number_check>3</Number_check>
+    </Force>
+    <Torque>
+      <Kalman_K>20</Kalman_K>
+      <Kalman_threshold>0.08</Kalman_threshold>
+      <Number_check>3</Number_check>
+    </Torque>
+  </KalmanFilter>
+  <ToolTransform>
+    <Rx>0</Rx>
+    <Ry>0</Ry>
+    <Rz>0</Rz>
+    <Dx>0</Dx>
+    <Dy>0</Dy>
+    <Dz>0</Dz>
+  </ToolTransform>
+  <LowPassFilter>0</LowPassFilter>
+</NetBoard>
